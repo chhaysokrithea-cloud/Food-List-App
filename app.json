@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "myApp",
+    "slug": "myApp",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Montserrat-Regular.ttf",
+            "./assets/fonts/Montserrat-Bold.ttf",
+            "./assets/fonts/Arimo-Regular.ttf"
+          ]
+        }
+      ]
+    ]
+  }
+}

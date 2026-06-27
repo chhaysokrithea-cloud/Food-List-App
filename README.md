@@ -24,7 +24,7 @@ A simple React Native food ordering app with fake login and cart system.
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/chhaysokrithea-cloud/Food-List-App>
 cd khmer-food-order
 npm install
 expo start
